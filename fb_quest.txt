@@ -1,0 +1,50 @@
+https://coderpad.io/77GXCARH
+https://fb.bluejeans.com/796210397
+
+1) Given a sequence of numbers and an integer total, check if a contiguous sequence adds to the integer total.
+Ex: integer_total = 10, sequence = [8, 1, 1, 4, 5, 7].
+Answer is true because 1+4+5 = 10
+
+2) Implement binary tree traversal without recursion
+You can use a stack here.
+
+3) Write a function that converts a given string into an integer. (This question is almost always asked)
+Recommend looking up Atoi on leetcode and solving it.
+
+2. Calculate the avg length of words in a sentence
+
+Parse an ip address / Validate an IP Address. Multiple test cases given.  
+
+
+[[A],[A,B],[A,C],[B,D],[C,A]] -- Find the alphabet with highest neighbors?
+
+1. the ORDER BY command in SQL is automatically set in what format if you didn't set it? Ascending or Descending?
+Answer: Ascending
+2. When you want to delete or add a column of a table in a database, what command you will use?
+Answer: ALTER
+3. this question about about LEFT JOIN, they ask what command you want to use if you want to keep all the info of the left table?
+Answer: left join
+4. You want to combine two column after removing two duplicates, use UNION or UNION ALL?
+Answer: UNION  
+5. Top(3)
+
+You have a 2-D array of friends like [[A,B],[A,C],[B,D],[B,C],[R,M], [S],[P], [A]]
+Write a function that creates a dictionary of how many friends each person has. People can have 0 to many friends. However, there won't be repeat relationships like [A,B] and [B,A] and neither will there be more than 2 people in a relationship  
+
+Avg length of words, some of the edge cases are having spaces in the beginning and end of the words, returning a float instead of int, returning None for blank input.
+Valid ip address, edge case to remember is if there are alphanumeric characters.
+
+Python graph node count  
+
+SQL : Top 3 Products by sale, % using Case, Basic Having clause and one Set operator (Intersect) type question
+
+Python : Average word length, ip-address parsing, dictionary, list of lists, flatten list of lists. ( Similar to previous interview experiences)  
+Flatten a nested dictionary?? ( this was the hardest question in coder pad questions )  
+
+Python: IP Address Binary Search, Facebook Friends Tree,  
+
+1) Print Max element of a given list
+2) Print median of a given list
+3) Print the first nonrecurring element in a list
+4) Print the most recurring element in a list
+5) Greatest common Factor  
